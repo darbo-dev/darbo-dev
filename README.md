@@ -65,9 +65,8 @@ Full-stack task management application with authentication, email verification, 
 ---
 
 ## 💡 Fun Facts
-- 🎯 Started coding at 17
+- 🎯 Started coding at 15
 - ⚡ Love building projects that solve real problems
-- 🌟 Goal: Become a senior developer by 25
 - 📚 Always learning and improving
 
 ---
